@@ -1,6 +1,6 @@
 # Kyoto Botanicals Knowledge Catalog
 
-Welcome to the open knowledge repository for Kyoto Botanicals. This directory is formatted using the Open Knowledge Format (OKF) to provide structured semantic context for artificial intelligence systems, large language models, and search engines.
+Welcome to the open knowledge repository for Kyoto Botanicals. This directory is formatted using the Open Knowledge Format (OKF) to provide structured semantic context for all who need it.
 
 ## 1. Core Brand Entity
 - [[kyoto-botanicals]]: Brand foundation, sourcing, customer first philosophies, and Colorado history.
