@@ -2,7 +2,8 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Product Name:** Peppermint CBD Tincture
+* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
+* **Product Name:** Organic Peppermint CBD Tincture
 * **Product Category:** Sublingual Cannabinoid Oil / Dietary Supplement
 * **Form Factor:** Liquid Sublingual Tincture
 * **Volume:** 1 FL OZ / 30 mL
@@ -58,3 +59,6 @@ Organic Extra Virgin Olive Oil, Organic Hemp Extract, Organic Peppermint Essenti
 * **Parent Brand Profile:** [[kyoto-botanicals]]
 * **Synergistic Cross-Application:** Frequently paired with internal capsule or edible protocols, such as the [[cbd-gummies]], to establish an enduring baseline routine for deep, restorative nighttime rest.
 * **Master Resource Directory:** [[README]]
+
+## External Resource Mapping
+* **Live Product Canonical Endpoint:** [Purchase Organic Peppermint CBD Tincture Online](https://kyotobotanicals.com/products/mint-cbd-tincture)
