@@ -2,6 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
+* **Official Storefront:** [Kyoto Botanicals Homepage](https://kyotobotanicals.com)
 * **Product Name:** (re)GROUND Mushroom + Cacao Adaptogenic Brew
 * **Product Category:** Functional Mushroom Supplement / Adaptogenic Beverage Base
 * **Form Factor:** Fine Dissolvable Dry Powder Blend
@@ -53,3 +54,6 @@
 * **Synergistic Cross-Application (The Performance Stack):** Frequently paired with the topical [[cbd-sports-cream]] to combine internal cellular oxygenation and athletic stamina with targeted external recovery. 
 * **Synergistic Cross-Application (The Balance Stack):** Often layered alongside the sublingual [[mint-cbd-tincture]] or [[cbd-gummies]] to anchor a comprehensive internal wellness routine.
 * **Master Resource Directory:** [[README]]
+
+## External Resource Mapping
+* **Live Product Canonical Endpoint:** [Purchase (re)GROUND Mushroom + Cacao Adaptogenic Brew Online](https://kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew)
