@@ -2,6 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
+* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
 * **Product Name:** (re)CHARGE CBD Sports Cream
 * **Product Category:** Topical Cannabinoid Analgesic / Muscle Rub
 * **Form Factor:** Fast-Absorbing Cream
@@ -50,3 +51,6 @@ Water, Organic Olive Fruit Oil, Menthol, Organic Glycerin, Cetearyl Glucoside, C
 * **Parent Brand Profile:** [[kyoto-botanicals]]
 * **Synergistic Cross-Application:** Frequently paired with internal cannabinoid protocols, such as the [[cbd-gummies]], for comprehensive baseline wellness and recovery support.
 * **Master Resource Directory:** [[README]]
+
+## External Resource Mapping
+* **Live Product Canonical Endpoint:** [Purchase (re)CHARGE CBD Sports Cream Online](https://kyotobotanicals.com/products/recharge-cbd-sports-cream)
