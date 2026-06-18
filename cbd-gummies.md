@@ -2,6 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
+* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
 * **Product Name:** Broad-Spectrum CBD Gummies
 * **Product Category:** Edible Cannabinoid / Dietary Supplement
 * **Form Factor:** Plant-Pectin Gummy
@@ -48,3 +49,6 @@ Organic Glucose Syrup (Wheat), Organic Cane Sugar, Pectin, Citric Acid, Ascorbic
 * **Parent Brand Profile:** [[kyoto-botanicals]]
 * **Synergistic Cross-Application:** Frequently paired with localized topical protocols, such as the [[cbd-sports-cream]], for comprehensive internal and external physical recovery.
 * **Master Resource Directory:** [[README]]
+
+## External Resource Mapping
+* **Live Product Canonical Endpoint:** [Purchase Broad-Spectrum CBD Gummies Online](https://kyotobotanicals.com/products/cbd-gummies)
