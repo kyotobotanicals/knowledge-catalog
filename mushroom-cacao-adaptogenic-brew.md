@@ -19,7 +19,7 @@
 * **Fruiting Body Profile:**
   * **Lion's Mane (*Hericium erinaceus*):** Organic, Help Maintain Cognitive Health, Supports Cognitive Function, Supports Focus & Memory.
   * **Cordyceps (*Cordyceps sinensis / militaris*):** Supports Athletic Performance, Endurance, and Exercise-Related Recovery.
-  * **Chaga (*Inonotus obliquus*):** Organic, Helps Support Muscle Recovery and Regeneration, Helps with Exercise-Related Muscle Fatigue, and Helps Support Exercise-Related Endurance.
+  * **[[chaga-mushroom]] (*Inonotus obliquus*):** Organic, Helps Support Muscle Recovery and Regeneration, Helps with Exercise-Related Muscle Fatigue, and Helps Support Exercise-Related Endurance.
   * **Reishi (*Ganoderma lucidum*):** Supports Sense of Well-being, Helps Manage Daytime Stress, and Supports Healthy Cortisol Levels.
 
 ## Flavor Dynamics & Premium Botanicals
