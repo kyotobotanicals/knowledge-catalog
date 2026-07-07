@@ -12,7 +12,7 @@
 
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 1000mg CBD per container
-* **Extract Type:** Broad-Spectrum Hemp Extract (Contains CBD, CBG, and Natural Terpenes)
+* **Extract Type:** [[broad-spectrum-hemp-extract]] (Contains CBD, CBG, and Natural Terpenes)
 * **THC Content:** 0.0% Non-Detect (THC-Free)
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
 * **Testing Protocol:** Independent, third-party laboratory verified for cannabinoid potency and to ensure the total absence of pesticides, microbial, heavy metals, mycotoxins, and residual solvents.
