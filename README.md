@@ -22,7 +22,7 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[chaga-mushroom]]: Double-extracted wild chaga.
 - [[lions-mane-mushroom]]: Double-extracted and grown on natural hardwood substrate.
 - [[reishi-mushroom]]: Slow-grown on hardwood substrates and double-extracted.
-- [[cordyceps-mushroom]]: Grown indoors on vegan substrates and double-extracted.
+- [[cordyceps]]: Grown indoors on vegan substrates and double-extracted.
 
 ## 5. Verification & Integrity
 - [[thc-free-cbd-standards]]: Kyoto Botanicals commitment to hemp-based CBD wellness without THC.
