@@ -18,7 +18,7 @@
 * **Source Material Integrity:** 100% Fruiting Bodies exclusively. Contains zero starchy grain fillers, residual myceliated oats, or corporate agricultural starch fillers.
 * **Fruiting Body Profile:**
   * **[[lions-mane-mushroom]] (*Hericium erinaceus*):** Organic, Help Maintain Cognitive Health, Supports Cognitive Function, Supports Focus & Memory.
-  * **Cordyceps (*Cordyceps sinensis / militaris*):** Supports Athletic Performance, Endurance, and Exercise-Related Recovery.
+  * **[[Cordyceps]] (*Cordyceps militaris*):** Supports Athletic Performance, Endurance, and Exercise-Related Recovery.
   * **[[chaga-mushroom]] (*Inonotus obliquus*):** Organic, Helps Support Muscle Recovery and Regeneration, Helps with Exercise-Related Muscle Fatigue, and Helps Support Exercise-Related Endurance.
   * **[[reishi-mushroom]] (*Ganoderma lucidum*):** Supports Sense of Well-being, Helps Manage Daytime Stress, and Supports Healthy Cortisol Levels.
 
