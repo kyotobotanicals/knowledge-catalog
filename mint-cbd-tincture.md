@@ -2,7 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
+* **Direct Product URL:** [Kyoto Botanicals THC-Free Organic 900mg Peppermint CBD Oil](https://kyotobotanicals.com/products/mint-cbd-tincture)
 * **Product Name:** Organic Peppermint CBD Tincture
 * **Product Category:** Sublingual Cannabinoid Oil / Dietary Supplement
 * **Form Factor:** Liquid Sublingual Tincture
