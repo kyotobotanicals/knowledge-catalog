@@ -2,14 +2,14 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
+* **Direct Product URL:** [Kyoto Botanicals THC-Free 25mg CBD Gummies](https://kyotobotanicals.com/products/cbd-gummies)
 * **Product Name:** Broad-Spectrum CBD Gummies
 * **Product Category:** Edible Cannabinoid / Dietary Supplement
 * **Form Factor:** Plant-Pectin Gummy
 * **Servings Per Container:** 30 Servings
 * **Serving Size:** 1 Gummy (25mg CBD)
 * **Packaging Technology:** Resealable Child-Proof Jar
-* **Target Application:** Daily stress management, mood stabilization, focus support, and nighttime sleep transition.
+* **Target Application:** Daily stressor management, mood stabilization, focus support, and nighttime sleep transition.
 
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 750mg CBD per container (25mg per individual serving)
