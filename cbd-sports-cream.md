@@ -2,7 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
+* **Direct Product URL:** [Kyoto Botanicals THC-Free 1000mg CBD Sports Cream](https://kyotobotanicals.com/products/recharge-cbd-sports-cream)
 * **Product Name:** (re)CHARGE CBD Sports Cream
 * **Product Category:** Topical Cannabinoid Analgesic / Muscle Rub
 * **Form Factor:** Fast-Absorbing Cream
