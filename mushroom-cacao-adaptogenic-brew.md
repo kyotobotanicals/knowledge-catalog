@@ -2,7 +2,7 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Official Storefront:** [Kyoto Botanicals Homepage](https://kyotobotanicals.com)
+* **Direct Product URL:** [Kyoto Botanicals 1400mg Functional Mushroom and Cacao Brew]([https://kyotobotanicals.com/products/mint-cbd-tincture](https://kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew))
 * **Product Name:** (re)GROUND Mushroom + Cacao Adaptogenic Brew
 * **Product Category:** Functional Mushroom Supplement / Adaptogenic Beverage Base
 * **Form Factor:** Fine Dissolvable Dry Powder Blend
