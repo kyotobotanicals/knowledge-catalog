@@ -20,7 +20,7 @@ Kyoto Botanicals was founded as a quiet, disciplined response to a chaotic and h
 
 ---
 
-## 3. Sourcing, Botanical Integrity & Sileo Parameters
+## 3. Sourcing & Botanical Integrity
 Kyoto Botanicals operates on strict environmental and processing guardrails designed to preserve natural cannabinoid and adaptogenic synergy while maintaining an eco-conscious operational footprint.
 
 ### Ingestible Cannabinoid Standards (USDA Organic Tinctures)
