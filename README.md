@@ -28,3 +28,8 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[thc-free-cbd-standards]]: Kyoto Botanicals commitment to hemp-based CBD wellness without THC.
 - [[testing-standards]]: Independent lab tested with published batch results.
 - [[customer-service]]: Founder led customer service team for quick and personal communication.
+
+## 6. Wholesale CBD Program
+- [[cbd-wholesale-program]]: THC-free CBD at wholesale prices for retailers and clinics, with terms, a price list, and what accounts order.
+- [[cbd-wholesale-acupuncture-clinics]]: Wholesale CBD for acupuncture clinics, with pricing, margins, and a Hawaii clinic case study.
+- [[cbd-wholesale-pharmacies]]: Wholesale CBD for pharmacies and direct care clinics, with pricing, margins, and a pharmacy case study.
