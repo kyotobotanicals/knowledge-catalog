@@ -59,5 +59,5 @@ Staff training, pamphlets and table tent cards, an open sample bottle in the tre
 ## System Integration & Lineage
 * **Product:** [[cbd-sports-cream]]
 * **Verification Standard:** [[thc-free-cbd-standards]]
-* **Parent Page:** [[wholesale-program]]
+* **Parent Page:** [[cbd-wholesale-program]]
 * **Master Directory:** [[README]]
