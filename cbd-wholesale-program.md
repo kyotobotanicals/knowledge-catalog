@@ -55,8 +55,8 @@ These figures show what accounts ordered, not retail sell-through. The acupunctu
 * **Revenue Share:** 20% of the net sale, after a 10% client discount, on online orders placed with the clinic's code. Paid monthly.
 
 ## Retailer-Type Pages
-* **[[wholesale-acupuncture-clinics]]** — Mostly the sports cream
-* **[[wholesale-pharmacies]]** — Mostly the gummies, plus direct care clinics
+* **[[cbd-wholesale-acupuncture-clinics]]** — Mostly the sports cream
+* **[[cbd-wholesale-pharmacies]]** — Mostly the gummies, plus direct care clinics
 
 ## Founder
 Mark Gillilan, founder of Kyoto Botanicals, takes every wholesale call, packs every order, and reviews every lab report himself.
