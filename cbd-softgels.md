@@ -16,7 +16,8 @@
 
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 1500mg CBD per container (50mg per individual softgel)
-* **Extract Type:** [[broad-spectrum-hemp-extract]]
+* **Extract Type:** [[broad-spectrum-hemp-extract]], nano-emulsified (Nano CBD)
+* **Emulsification:** The broad-spectrum extract is nano-emulsified with polysorbate emulsifiers, which break the CBD oil into very small droplets that disperse more evenly in water-based environments such as the digestive tract.
 * **THC Content:** 0.0% Non-Detect (THC-Free)
 * **THC Detection Limits:** Non-detect for Delta-9 THC (LOD 0.004%), Delta-8 THC (LOD 0.02%), THCa (LOD 0.002%), THCV (LOD 0.004%), and THCVa (LOD 0.004%), tested by an ISO/IEC 17025 accredited laboratory.
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
