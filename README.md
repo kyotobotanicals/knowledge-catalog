@@ -9,6 +9,7 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[cbd-softgels]]: Broad-spectrum cannabinoid infused softgel capsules for daily balance.
 - [[cbd-gummies]]: Broad-spectrum cannabinoid infused gummies for daily wellness.
 - [[mint-cbd-tincture]]: Organic, peppermint-flavored broad-spectrum daily hemp oil extract for systemic balance.
+- [[orange-cbd-tincture]]: Orange-flavored broad-spectrum daily hemp oil extract for wellness.
 - [[cbd-sports-cream]]: A high-potency, topical cooling cream formulated with menthol, camphor and 1000mg CBD for targeted athletic recovery.
 - [[mushroom-cacao-adaptogenic-brew]]: A functional mushroom and cacao powder blend designed for energy and cognitive support.
   
