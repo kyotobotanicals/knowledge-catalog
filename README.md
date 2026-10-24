@@ -33,3 +33,8 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[cbd-wholesale-program]]: THC-free CBD at wholesale prices for retailers and clinics, with terms, a price list, and what accounts order.
 - [[cbd-wholesale-acupuncture-clinics]]: Wholesale CBD for acupuncture clinics, with pricing, margins, and a Hawaii clinic case study.
 - [[cbd-wholesale-pharmacies]]: Wholesale CBD for pharmacies and direct care clinics, with pricing, margins, and a pharmacy case study.
+- [[hemp-thc-rule-guide-for-cbd-retailers]]: Guide for CBD retailers to the December 11, 2026 federal hemp rule (0.4 mg total THC per container cap), with container ceilings, a COA checklist, and a sports cream example.
+
+
+## 7. Promotions
+- [[black-friday-cbd-deals]]: Annual Black Friday and Cyber Monday sale, with dates, sale prices, cost per mg of CBD, and how to evaluate a CBD deal.
