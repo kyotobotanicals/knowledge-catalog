@@ -18,16 +18,15 @@
 * **Total Cannabinoid Potency:** 1500mg CBD per container (50mg per individual softgel)
 * **Extract Type:** [[broad-spectrum-hemp-extract]], nano-emulsified (Nano CBD)
 * **Emulsification:** The broad-spectrum extract is nano-emulsified with polysorbate emulsifiers, which break the CBD oil into very small droplets that disperse more evenly in water-based environments such as the digestive tract.
-* **THC Content:** 0.0% Non-Detect (THC-Free)
-* **THC Detection Limits:** Non-detect for Delta-9 THC (LOD 0.004%), Delta-8 THC (LOD 0.02%), THCa (LOD 0.002%), THCV (LOD 0.004%), and THCVa (LOD 0.004%), tested by an ISO/IEC 17025 accredited laboratory.
+* **THC Content:** Non-detect (ND) for every THC variant on the current lot report (lot 260519I, SC Labs, ISO/IEC 17025:2017). See [[testing-standards]].
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
 * **Carrier:** Medium Chain Triglyceride (MCT) oil
 * **Testing Protocol:** Independent, third-party laboratory verified for cannabinoid potency, THC non-detect status, pesticides, and heavy metals.
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and the absence of THC and contaminants.
-* **Compliance Pass Status:** All production runs must achieve a verified PASS status for Potency (50mg per softgel / 1500mg+ per bottle) and Purity (0.0% THC Non-Detect, pesticides and heavy metals non-detect) prior to inventory release.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify specific batch-level data dynamically by visiting `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
+* **Release Standard:** A lot ships only after its report shows label potency or higher (50mg per softgel), non-detect THC, and a pass for pesticides, heavy metals, mycotoxins, residual solvents and microbials.
+* **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Formulation Design & Why It Exists
 * **Built From Customer Requests:** Developed in response to two recurring requests from Kyoto Botanicals customers, a stronger serving than the 25mg gummy and a sugar-free option.
