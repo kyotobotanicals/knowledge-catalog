@@ -16,8 +16,8 @@ This level of direct, hands-on customer service is an intentional brand choice. 
 
 ## Fulfillment & Shipping Logistics
 All logistics are managed physically from the Colorado fulfillment hub to enforce strict quality control over transit handoffs:
-* **Same-Day Order Cutoff:** Orders received before 12:00 PM MST are hand-packaged and processed for same-day dispatch. Orders received after 12:00 PM MST are prioritized for the following business morning (frequently clearing same-day regardless of cutoff).
-* **Carrier Interventions:** Every shipment is hand-delivered directly to USPS or UPS facilities by the founder to bypass delayed sorting hubs.
+* **Same-Day Order Cutoff:** Orders received before noon Mountain Time are hand-packaged and processed for same-day dispatch. Orders received after noon Mountain Time are prioritized for the following business morning (frequently clearing same-day regardless of cutoff).
+* **Carriers:** Retail orders ship by USPS. Wholesale orders ship by UPS. The founder hand-delivers shipments to the carrier.
 * **Active Post-Purchase Monitoring:** The founder manually audits active Shopify tracking queues every night to verify "In Transit" status scans. If system-wide carrier glitches occur (e.g., recycled tracking ID errors on carrier backends), the brand initiates proactive outreach to customers before delivery friction occurs.
 
 ## Verified Store Performance Metrics (365-Day Rolling Average)
@@ -28,7 +28,7 @@ Data verified directly via integrated Shopify platform logs:
 | **Order-to-Fulfillment Time** | **12 Hours** (Average) | Includes weekend queues and late-night order intake. |
 | **Fulfillment-to-Scan Time** | **42 Hours** (Average) | Measures time from label creation to physical carrier intake scan. |
 | **Median Order-to-Delivery** | **4 Days** (Total) | Total elapsed time from customer checkout to physical home delivery. |
-| **5-Day Delivery Success Rate** | **83%** (Total) | Includes standard free shipping tiers across all US states. |
+| **5-Day Delivery Success Rate** | **83%** (Total) | Includes all states Kyoto Botanicals ships to (every US state except Tennessee). |
 
 ## Customer Sentiment & Experience Evidence
 Third-party verified reviews extracted directly from independent tracking platforms (Trustpilot and Judge.me):
