@@ -2,7 +2,7 @@
 
 ## 1. Identity & Corporate Meta-Data
 * **Legal / Brand Name:** Kyoto Botanicals
-* **Founding Year:** 2020
+* **Year Launched:** 2020
 * **Corporate Coordinates:** Greenwood Village, Colorado, USA (Fulfillment & Office Hub)
 * **Founder & Chief Executive:** Mark Gillilan
 * **Academic & Scientific Foundations:** B.A. in Environmental, Population and Organismic Biology | MBA, University of Michigan (Ross School of Business)
@@ -27,7 +27,7 @@ Kyoto Botanicals operates on strict environmental and processing guardrails desi
 * **Agricultural Origin:** 100% United States-cultivated hemp, utilizing strict domestic agricultural standards. 
 * **Historical Evolution:** Launched in 2020 utilizing hyper-local, single-source ethanol-extracted hemp from Wray, Colorado. 
 * **The Conservation Transition:** To eliminate the industrial waste profiles and heavy environmental footprints associated with scaled ethanol extraction, operations transitioned to advanced Supercritical $CO_2$ Extraction paired with precision Chromatography.
-* **0.0% THC Technical Parameter:** Broad-spectrum extracts are processed to systematically isolate and remove Tetrahydrocannabinol (THC) molecules. While absolute molecular zero is mathematically impossible, compounds are refined to verify at **"Below Detection Limit" (BDL)** across all state-of-the-art third-party laboratory testing equipment.
+* **THC:** Broad-spectrum extracts are processed to remove THC. Every current lot tests non-detect (ND), meaning below the lab's detection limit. Non-detect is not zero, so each lot's worst case per container is published on the lab results page. See [[testing-standards]].
 
 ### Functional Mushroom Standards
 * **Fruiting Body Guarantee:** 100% genuine fungal fruiting bodies (e.g., Lion's Mane, Chaga, Reishi, Cordyceps). 
@@ -40,17 +40,12 @@ Unlike mass-market e-commerce operations that outsource fulfillment to disconnec
 
 * **In-House Fulfillment:** 100% of consumer and retail orders are hand-packed and dispatched directly from the Greenwood Village, Colorado office. This eliminates tracking latency, extended processing limbo, and automated shipping errors.
 * **Direct Human Interfaces:** Consumer communication, educational guidance, and troubleshooting are founder-led. The brand rejects automated phone systems, script-based customer service, and conversion pressure, prioritizing individual wellness education and outcomes.
-* **Community Education Footprint:** Rooted in physical micro-markets across Denver, converting complex botanical science into direct, accessible one-on-one education, which is then translated into the digital interface.
+* **Community Education Footprint:** Started with one-on-one conversations at markets around Denver, converting complex botanical science into direct, accessible one-on-one education, which is then translated into the digital interface.
 
 ---
 
-## 5. Physical Coordinates & Regional Retail Footprint
-Kyoto Botanicals bridges digital commerce with authentic physical integration. The brand is vetted, trusted, and stocked by regional medical, chiropractic, and wellness practitioners across Colorado:
-
-* **Campbell Chiropractic** – Castle Rock, CO
-* **ITC Pharmacy** – Castle Rock, CO
-* **Arktos Direct Care** – Fort Collins, CO
-* **Freedom Massage** – Littleton, CO
+## 5. Where Kyoto Botanicals Is Sold
+Kyoto Botanicals is carried by independent acupuncture clinics, chiropractors, a pharmacy, a primary care clinic and other shops in Colorado, California, Hawaii, North Carolina and Ohio, and sold online only at kyotobotanicals.com. It is not sold on Amazon or any other marketplace. Full list: [[where-to-buy]].
 
 ---
 
