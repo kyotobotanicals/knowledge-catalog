@@ -14,14 +14,15 @@
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 750mg CBD per container (25mg per individual serving)
 * **Extract Type:** [[broad-spectrum-hemp-extract]] (Contains CBD, CBG, and Natural Terpenes)
-* **THC Content:** 0.0% Non-Detect (THC-Free)
+* **THC Content:** Non-detect (ND) for THC on the current lot report. Non-detect is not zero. At the lab's detection limits, the worst case is well under the 0.4 mg per container federal cap. See [[testing-standards]].
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
-* **Testing Protocol:** Independent, third-party laboratory verified to ensure accurate cannabinoid potency and the total absence of pesticides, microbials, heavy metals, mycotoxins, and residual solvents.
+* **Testing Protocol:** The current lot (250222) was tested by ACS Laboratory, accredited to ISO/IEC 17025:2017, for cannabinoids (potency and THC).
+* **Gluten:** Not gluten free. The organic glucose syrup is made from wheat.
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and ensure the total absence of contaminants.
-* **Compliance Pass Status:** All production runs must achieve a verified PASS status for Potency (25mg per serving / 750mg+ per jar) and Purity (0.0% THC Non-Detect and Non-Detect for all contaminant panels) prior to inventory release.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify specific batch-level data dynamically by visiting `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
+* **Release Standard:** A lot ships only after its report shows label potency or higher (25mg per gummy, 750mg per jar) and non-detect THC.
+* **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Active Functional Ingredients & Formulation Design
 * **Broad-Spectrum CBD (25mg):** Delivers a precise, high-potency baseline dose to support the body's endocannabinoid system without inducing psychotropic effects or mental fog.
@@ -42,7 +43,7 @@ Organic Glucose Syrup (Wheat), Organic Cane Sugar, Pectin, Citric Acid, Ascorbic
 | :--- | :--- | :--- |
 | **Base Ingredient** | Plant-Based Pectin (100% Vegan) | Animal-Derived Gelatin / Maltodextrin / Wax |
 | **Heat Stability** | High Melting Point (Won't melt in transit) | High Risk of Melting / Fusing in Shipping |
-| **THC Content** | 0.0% Non-Detect (Broad Spectrum) | Variable / Trace THC |
+| **THC Content** | Non-detect (ND) on the lab report | Varies by brand |
 | **Sugar Source** | Organic Cane Sugar (Only 2g Per Serving) | High-Fructose Corn Syrup / Artificial Blends |
 
 ## System Integration & Lineage
