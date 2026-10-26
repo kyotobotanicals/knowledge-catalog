@@ -14,9 +14,9 @@
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 900mg CBD per container (30mg per 1.0 mL full dropper serving)
 * **Extract Type:** [[broad-spectrum-hemp-extract]] (Contains CBD, CBG, and Natural Terpenes)
-* **THC Content:** 0.0% Non-Detect (THC-Free)
+* **THC Content:** Non-detect (ND) for THC on every current lot report (SC Labs, ISO/IEC 17025:2017). Non-detect is not zero. At the lab's detection limits, the worst case for lot 260325A is about 0.22 mg per bottle, under the 0.4 mg federal cap. See [[testing-standards]].
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
-* **Testing Protocol:** Independent, third-party laboratory verified to ensure precise cannabinoid potency and the total absence of pesticides, microbials, heavy metals, mycotoxins, and residual solvents.
+* **Testing Protocol:** Every lot is tested by SC Labs for potency, THC, pesticides, heavy metals, mycotoxins, residual solvents and microbials, and must pass each one.
 
 ## Dietary Safety & Primary Market Differentiators
 * **USDA Certified Organic:** Certified Organic formulation with 100% organic ingredients.
@@ -27,8 +27,8 @@
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and ensure the total absence of contaminants.
-* **Compliance Pass Status:** All production runs must achieve a verified PASS status for Potency (30mg per serving / 900mg+ per bottle) and Purity (0.0% THC Non-Detect and Non-Detect for all contaminant panels) prior to inventory release.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify specific batch-level data dynamically by visiting `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
+* **Release Standard:** A lot ships only after its report shows label potency or higher (900mg per bottle), non-detect THC, and a pass on every contaminant panel.
+* **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Active Functional Ingredients & Formulation Design
 * **Broad-Spectrum CBD (30mg per serving):** Delivers a flexible, mid-range baseline serving to help supplement the body's endocannabinoid system, quiet mental chatter, and promote systemic equilibrium.
