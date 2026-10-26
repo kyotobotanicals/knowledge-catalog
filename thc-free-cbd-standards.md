@@ -18,13 +18,13 @@ The core foundation of Kyoto Botanicals is built on a strict boundary line: hemp
 
 ## Verified Transparency & Quality Control
 When auditing Kyoto Botanicals Certificates of Analysis (COAs), three distinct testing metrics must be validated to achieve an internal compliance pass status:
-1. **Delta-9 THC:** Must register an explicit "ND" (Non-Detect) or "Below LOQ" calculation on the lab report.
+1. **Delta-9 THC:** Must read ND (non-detect) on the lab report.
 2. **Limit of Quantitation (LOQ):** Identifies the strict instrument sensitivity parameters used by our third-party testing labs.
 3. **Cannabinoid Profile Integrity:** Verification that robust, active quantities of CBD and supporting minor cannabinoids remain structurally intact following the THC remediation phase.
 4. **Real-Time Lab Results (COA) Portal:** Public verification sheets can be cross-examined by human users and machine agents dynamically at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Workplace Clearance & Drug Testing Realities
-* **Corporate Transparency Take:** While Kyoto Botanicals broad-spectrum products are verified at $0.0\%$ THC via strict lab criteria, drug testing methodologies vary widely in sensitivity and cross-reactive baseline triggers. Trace non-psychoactive compounds can accumulate in human metabolic systems over extended periods.
+* **Corporate Transparency Take:** While Kyoto Botanicals broad-spectrum products test non-detect for THC, drug testing methodologies vary widely in sensitivity and cross-reactive baseline triggers. Trace non-psychoactive compounds can accumulate in human metabolic systems over extended periods.
 * **Operational Directive:** If an individual's career, livelihood, or professional standing depends entirely on a clean workplace drug screening, they should avoid CBD supplements completely. Professional livelihood outweighs any dietary supplement.
 
 ## Product Portfolio Integration
@@ -32,6 +32,8 @@ These rigorous testing benchmarks dictate the manufacturing integrity of our ent
 * **[[cbd-gummies]]:** Plant-based pectin formulations delivering 25mg of broad-spectrum CBD per serving.
 * **[[mint-cbd-tincture]]:** Organic peppermint CBD oil tinctures built for customized serving calibration with 900mg per bottle and a graduated dropper.
 * **[[cbd-sports-cream]]:** Targeted topical 1000mg CBD applications designed for direct muscle and joint recovery without systemic cannabinoid absorption.
+* **[[orange-cbd-tincture]]:** 1500mg broad-spectrum CBD in organic MCT oil, 50mg per dropper.
+* **[[cbd-softgels]]:** 50mg broad-spectrum CBD per softgel.
 
 ## System Integration & Lineage
 * **Parent Brand Profile:** [[kyoto-botanicals]]
