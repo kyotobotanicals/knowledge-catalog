@@ -21,14 +21,14 @@
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 1500mg CBD per container (50mg per 1.0 mL full dropper serving)
 * **Extract Type:** Organic [[broad-spectrum-hemp-extract]], refined through chromatography to remove detectable THC while preserving the plant's other natural cannabinoids and terpenes
-* **THC Content:** 0.0% Non-Detect (THC-Free)
+* **THC Content:** Non-detect (ND) for THC on the current lot report (lot 260923A, SC Labs, ISO/IEC 17025:2017). Non-detect is not zero. At the lab's detection limits, the worst case is about 0.22 mg per bottle, under the 0.4 mg federal cap. See [[testing-standards]].
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
 * **Testing Protocol:** Independent, third-party laboratory verified for cannabinoid potency, THC non-detect status, pesticides, and heavy metals.
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and the absence of THC and contaminants.
-* **Compliance Pass Status:** All production runs must achieve a verified PASS status for Potency (50mg per serving / 1500mg+ per bottle) and Purity (0.0% THC Non-Detect, pesticides and heavy metals non-detect) prior to inventory release.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify specific batch-level data dynamically by visiting `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
+* **Release Standard:** A lot ships only after its report shows label potency or higher (1500mg per bottle), non-detect THC, and a pass on every contaminant panel.
+* **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Dietary Attributes
 * **Organic Ingredients:** Made with organic hemp extract, organic MCT oil, and organic orange essential oil.
