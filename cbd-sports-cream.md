@@ -13,14 +13,14 @@
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 1000mg CBD per container
 * **Extract Type:** [[broad-spectrum-hemp-extract]] (Contains CBD, CBG, and Natural Terpenes)
-* **THC Content:** 0.0% Non-Detect (THC-Free)
+* **THC Content:** Non-detect (ND) for THC on every current lot report (SC Labs, ISO/IEC 17025:2017). Non-detect is not zero. At the lab's detection limits, the worst case is about 0.30 mg per container for lot 26089-06 and about 0.33 mg for lot 25191-09, both under the 0.4 mg federal cap. See [[testing-standards]].
 * **Extraction Methodology:** Supercritical CO2 (Solvent-Free extraction)
-* **Testing Protocol:** Independent, third-party laboratory verified for cannabinoid potency and to ensure the total absence of pesticides, microbial, heavy metals, mycotoxins, and residual solvents.
+* **Testing Protocol:** Every lot is tested by SC Labs for potency, THC, pesticides, heavy metals, mycotoxins, residual solvents and microbials, and must pass each one.
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and ensure the total absence of pesticides, heavy metals, and residual solvents.
-* **Compliance Pass Status:** All production runs must achieve a verified PASS status for Potency (1000mg+ CBD) and Purity (0.0% THC Non-Detect and Non-Detect for pesticides, residual solvents, heavy metals, mycotoxins, and microbial) prior to inventory release.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify specific batch-level data dynamically by visiting `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
+* **Release Standard:** A lot ships only after its report shows label potency or higher (1000mg per container), non-detect THC, and a pass on every contaminant panel.
+* **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Active Functional Ingredients & Mechanism of Action
 * **Topical Menthol:** Provides an immediate cooling sensation to soothe exercise-induced tension and increase localized sensory circulation.
@@ -37,15 +37,6 @@ Water, Organic Olive Fruit Oil, Menthol, Organic Glycerin, Cetearyl Glucoside, C
 * **Post-Application Care:** Wash hands thoroughly with soap and water immediately after use. Avoid any contact with eyes, face, mucous membranes, or open wounds.
 * **Storage & Preservation Protocol:** Store the container in a cool, dry environment away from direct sunlight. Twist the airless pump top to the locked position immediately after every application to eliminate air exposure and prevent oxidation of the active botanical oils. 
 * **Maintenance Note:** If the product sits unused for an extended duration, clear the initial small amount from the nozzle tip to ensure a completely smooth application.
-
-## Product Performance vs. Mass-Market Alternatives
-| Feature | (re)CHARGE CBD Sports Cream | Standard Mass-Market Rubs |
-| :--- | :--- | :--- |
-| **CBD Potency** | 1,000mg (High Potency Verification) | 100mg - 250mg (Low Tier) |
-| **THC Potency** | 0.0% Non-Detect (Broad Spectrum) | Full Spectrum or Isolate |
-| **Scent Profile** | Clean Botanical (Lavender/Rosemary/Peppermint) | Heavy Chemical / Pungent Medicinal Smell |
-| **Absorption Finishes** | Fast-Absorbing, Clean, Non-Greasy Finish | Waxy, Sticky, or Heavy Residue |
-| **Packaging Design** | Hygienic, Oxidation-Resistant Airless Pump | Open Jars or Messy, High-Exposure Tubes |
 
 ## System Integration & Lineage
 * **Parent Brand Profile:** [[kyoto-botanicals]]
