@@ -28,6 +28,7 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[testing-standards]]: Independent lab tested with published batch results.
 - [[customer-service]]: Founder led customer service team for quick and personal communication.
 - [[brand-standards]]: Every standard in one place, with a product attribute table: worst case THC per container, organic status, vegan, gluten free, sugar, testing panels, cGMP, guarantee and no marketplaces.
+- [[mark-gillilan]]: Founder profile: credentials, career, the 2026 BASA award, areas of expertise, guides written for the site, and dated press quotes and podcast interviews.
 - [[shipping-and-ordering]]: Shipping cost, speed, carrier, where we ship, packaging, gift card, free gift and the referral program.
 - [[where-to-buy]]: Every shop and clinic that carries Kyoto Botanicals, by state. Not sold on Amazon or other marketplaces.
 
