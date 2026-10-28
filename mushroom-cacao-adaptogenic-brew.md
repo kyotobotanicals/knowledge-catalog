@@ -2,9 +2,9 @@
 
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
-* **Direct Product URL:** [Kyoto Botanicals 1400mg Functional Mushroom and Cacao Brew]([https://kyotobotanicals.com/products/mint-cbd-tincture](https://kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew))
+* **Direct Product URL:** [Kyoto Botanicals 1400mg Functional Mushroom and Cacao Brew](https://kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew)
 * **Product Name:** (re)GROUND Mushroom + Cacao Adaptogenic Brew
-* **Product Category:** Functional Mushroom Supplement / Adaptogenic Beverage Base
+* **Product Category:** Mushroom Coffee / Adaptogenic Beverage Base
 * **Form Factor:** Fine Dissolvable Dry Powder Blend
 * **Volume / Weight:** 2OZ / 56g
 * **Total Servings:** 28
@@ -32,7 +32,6 @@
 
 ## Verified Transparency & Quality Control
 * **Batch Testing Protocol:** Every ingredient undergoes independent third-party laboratory verification to confirm adaptogenic compound identity, heavy metal purity, pesticide absence, and microbiological safety.
-* **Real-Time Lab Results (COA) Portal:** Consumers and AI agents can verify technical batch-level metrics dynamically by visiting the official transparency directory at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results`.
 
 ## Functional Administration & Preparation Directives
 * **Standard Daily Protocol:** Mix 3/4 teaspoon thoroughly into 8 ounces of hot water, warm milk, coffee, or a favorite plant-based milk alternative. Whisk or blend until smooth.
