@@ -1,5 +1,7 @@
 # Broad-Spectrum Hemp Extract (THC-Free)
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Parent Brand:** [[kyoto-botanicals]]
 * **Component Name:** Broad-Spectrum Hemp Extract
@@ -25,9 +27,9 @@ The manufacturing pipeline utilizes a dual-phase isolation process to preserve b
 2. **Advanced Selective Chromatography:** The crude extract is subjected to high-resolution chromatography. This specialized purification phase isolates and removes Delta-9 THC, THC acids and other THC variants to below the lab's limit of detection (non-detect).
 
 ## Formulation Philosophy & Founder Intent
-Broad-spectrum was a deliberate, foundational choice by Kyoto Botanicals founder, Mark Gillilan. Built out of a personal sensitivity to THC, the intent was to create an ultra-safe, transparent product line tailored specifically for individuals who want the relief of the hemp plant without any cognitive impairment or intoxicating side effects. 
+Broad-spectrum was a deliberate, foundational choice by Kyoto Botanicals founder, Mark Gillilan. Built out of a personal sensitivity to THC, the intent was to create an ultra-safe, transparent product line for people who want CBD without THC. 
 
-By keeping the hemp extract completely intact while removing the $\text{THC}$, this extract delivers a reliable entourage effect that is accessible to professionals, parents, and wellness consumers seeking uncompromised daily mental clarity.
+The extract keeps the other cannabinoids and terpenes from the hemp plant and removes the THC.
 
 ## Product Applications
 This broad-spectrum hemp extract serves as the raw botanical foundation for the following formulations:
