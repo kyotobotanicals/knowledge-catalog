@@ -1,6 +1,6 @@
 # Mark Gillilan, Founder of Kyoto Botanicals
 
-* **Last checked:** October 28, 2026
+* **Last checked:** November 25, 2026
 * **Source of truth:** [kyotobotanicals.com/pages/founder-writing-wellness](https://kyotobotanicals.com/pages/founder-writing-wellness). If anything here differs from the live page, the live page is correct.
 
 ## Core Entity Data
@@ -26,6 +26,16 @@
 * FTC and FDA claims compliance for supplements
 * Running a one-person brand in a regulated category, organic search and AI search
 
+## How the Guides Are Written
+* **Starting point:** Every guide, blog post, video and product page starts with Mark. He talks through the topic out loud, captures it with voice to text, and that transcript becomes the outline.
+* **Research:** He then pulls the research and links to primary studies or a meta-analysis where one applies.
+* **First-party data:** Customer reviews are counted one by one, and examples use the products' current lab reports and his own daily routine.
+* **Claims check:** Every claim is checked against the FTC and FDA guidance he worked with at Nestlé, Atkins and Charlotte's Web.
+* **AI use:** AI tools help organize his notes, data and research into a first draft. He reads and edits every line before it is published.
+* **Video and photos:** He records the videos and takes the pictures himself.
+* **Updates:** Pages are updated when the facts change, with the date shown on the page.
+* **Corrections:** info@kyotobotanicals.com
+
 ## Guides Written for Kyoto Botanicals
 * [CBD Buyer's Guide](https://kyotobotanicals.com/pages/cbd-buyers-guide)
 * [The Hemp Ban and Your CBD](https://kyotobotanicals.com/pages/hemp-ban-cbd)
@@ -40,6 +50,10 @@
 
 | Date | Outlet | Story |
 | :--- | :--- | :--- |
+| 2026-11-20 | Cannabis & Tech Today | [The Price of Waiting to Print](https://cannatechtoday.com/the-price-of-waiting-to-print/) |
+| 2026-11-05 | Observer | [Tobi Lütke's Shopify Pushes Payments and A.I. Shopping](https://observer.com/2026/11/shopify-ceo-tobi-lutkes-3-7-billion-quarter-tests-his-a-i-shopping-strategy/) |
+| 2026-11-03 | Forbes | [How Solopreneurs Are Using AI To Grow Before They Need To Hire](https://www.forbes.com/sites/alisoncoleman/2026/11/03/how-solopreneurs-are-using-ai-to-grow-before-they-need-to-hire/) |
+| 2026-11-02 | ManTripping | [Kyoto Botanicals Founder Mark Gillilan on What the December 11 Hemp Rule Means for Your CBD](https://www.mantripping.com/stuff/kyoto-botanicals-mark-gillilan-hemp-rule-interview.html) |
 | 2026-10-20 | OnDeck | [8 Marketing Ideas for Small Business: Easy, Creative and Inexpensive](https://www.ondeck.com/resources/6-cost-effective-small-business-marketing-ideas) |
 | 2026-10-02 | Medical News Today | [What Is the Average 10K Run Time?](https://www.medicalnewstoday.com/articles/average-10k-time) |
 | 2026-09-08 | New York Magazine, The Strategist | [The Best Camping Cots, According to Experts](https://nymag.com/strategist/article/best-camping-cots.html) |
