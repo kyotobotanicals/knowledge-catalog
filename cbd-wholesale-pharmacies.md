@@ -5,7 +5,7 @@
 * **Audience:** Pharmacies and direct care or family medicine clinics buying wholesale
 * **Live Source:** [Wholesale THC-Free CBD for Pharmacies and Direct Care Clinics](https://kyotobotanicals.com/pages/wholesale-cbd-for-pharmacies)
 * **Hub:** [[cbd-wholesale-program]]
-* **Last Verified:** 2026-10-07 (the live page is the source of truth if numbers differ)
+* **Last checked:** November 25, 2026 (the live page is the source of truth if numbers differ)
 * **Main Product Ordered:** [[cbd-gummies]], about 72% of pharmacy wholesale dollars
 
 ## What Pharmacies Order
