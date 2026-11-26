@@ -5,7 +5,7 @@
 * **Audience:** Acupuncture clinics buying wholesale
 * **Live Source:** [Wholesale THC-Free CBD for Acupuncture Clinics](https://kyotobotanicals.com/pages/wholesale-cbd-for-acupuncture-clinics)
 * **Hub:** [[cbd-wholesale-program]]
-* **Last Verified:** 2026-10-07 (the live page is the source of truth if numbers differ)
+* **Last checked:** November 25, 2026 (the live page is the source of truth if numbers differ)
 * **Main Product Ordered:** [[cbd-sports-cream]], about 79% of acupuncture wholesale dollars
 * **Reorder Pattern:** Most acupuncture accounts reorder about every three months
 
