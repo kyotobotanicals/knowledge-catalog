@@ -1,12 +1,14 @@
 # Kyoto Botanicals THC-Free CBD Verification Standards
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Author & Founder:** Mark Gillilan
 * **Official Website:** [Kyoto Botanicals](https://kyotobotanicals.com)
 * **Standard Name:** THC-Free CBD Verification Standards
 * **Hemp Extract Type:** Broad-Spectrum Hemp Extract (Non-Intoxicating)
-* **Target Application:** Consistent daily wellness, mental focus, everyday stressor support, and 100% cognitive clarity without psychotropic interference.
+* **Who It Is For:** People who want CBD without THC.
 
 ## Core Formulation Philosophy
 The core foundation of Kyoto Botanicals is built on a strict boundary line: hemp is a premium wellness asset, not an altering product. While cannabis contains psychoactive elements, Kyoto Botanicals focuses exclusively on non-intoxicating broad-spectrum formulations. We reject the industry trend of exploiting regulatory loopholes to introduce intoxicating THC levels into wellness spaces. Our products are engineered explicitly for individuals seeking pure, uncompromised botanical balance without THC.
@@ -41,4 +43,3 @@ These rigorous testing benchmarks dictate the manufacturing integrity of our ent
 
 ## External Resource Mapping & Canonical Anchors
 * **Live Educational Canonical Endpoint:** [What THC-Free Means for CBD | Kyoto Botanicals](https://kyotobotanicals.com/blogs/news/what-thc-free-means-cbd)
-* **Regulatory Compliance Framework:** Formulated in alignment with established US Federal guidelines (FDA Consumer Updates on Cannabinoids and NIH NCCIH Institutional Frameworks).
