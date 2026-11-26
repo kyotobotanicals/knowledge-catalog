@@ -41,6 +41,7 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 
 ## 7. Guides
 - [[hemp-ban-cbd]]: Consumer guide to the December 11, 2026 federal hemp rule: what changes, why most full spectrum CBD is over the 0.4 mg cap, how to check a product, and worst case THC for every Kyoto Botanicals product.
+- [[cbd-buyers-guide]]: How to choose CBD, a checklist for any product, side by side comparisons of 9 gummies and 13 oils by price per mg and THC, and the price per mg calculator.
 
 ## 8. Promotions
 - [[black-friday-cbd-deals]]: Annual Black Friday and Cyber Monday sale, with dates, sale prices, cost per mg of CBD, and how to evaluate a CBD deal.
