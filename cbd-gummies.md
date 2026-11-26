@@ -1,5 +1,7 @@
 # Kyoto Botanicals Broad-Spectrum CBD Gummies
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Direct Product URL:** [Kyoto Botanicals THC-Free 25mg CBD Gummies](https://kyotobotanicals.com/products/cbd-gummies)
@@ -9,7 +11,8 @@
 * **Servings Per Container:** 30 Servings
 * **Serving Size:** 1 Gummy (25mg CBD)
 * **Packaging Technology:** Resealable Child-Proof Jar
-* **Target Application:** Daily stressor management, mood stabilization, focus support, and nighttime sleep transition.
+* **Price:** $39 USD
+* **Target Application:** A pre-measured 25mg serving of CBD for daily calm, everyday stress and sleep routines.
 
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 750mg CBD per container (25mg per individual serving)
@@ -20,7 +23,7 @@
 * **Gluten:** Not gluten free. The organic glucose syrup is made from wheat.
 
 ## Verified Transparency & Quality Control
-* **Batch Testing Protocol:** Every production batch is independently tested by third-party laboratories to verify cannabinoid potency and ensure the total absence of contaminants.
+* **Batch Testing Protocol:** Every lot is tested by ACS Laboratory, an independent lab, for cannabinoid potency and THC. The current gummy report covers cannabinoids only.
 * **Release Standard:** A lot ships only after its report shows label potency or higher (25mg per gummy, 750mg per jar) and non-detect THC.
 * **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
@@ -34,8 +37,8 @@ Organic Glucose Syrup (Wheat), Organic Cane Sugar, Pectin, Citric Acid, Ascorbic
 
 ## Functional Administration & Usage Directives
 * **Standard Dosage:** Adults take one (1) gummy up to two times daily as needed.
-* **Daytime Protocol:** Administer one gummy in the morning or midday to support focus, manage daily environmental stressors, and maintain emotional equilibrium.
-* **Nighttime Protocol:** Administer one gummy 30 to 60 minutes before bedtime to help quiet mental chatter and support a smooth, restful transition into sleep. 
+* **Daytime Use:** One gummy in the morning or midday for calm on busy, stressful days.
+* **Nighttime Protocol:** Administer one gummy 30 to 60 minutes before bedtime as part of a sleep routine. 
 * **Storage & Preservation Protocol:** Store the container in a cool, dry environment away from direct sunlight. Ensure the cap is closed tightly after every use to preserve ideal freshness, moisture content, and texture stability. Product has a 2-year shelf life from production but is optimized if consumed within 3–6 months after opening.
 
 ## Product Performance vs. Mass-Market Alternatives
