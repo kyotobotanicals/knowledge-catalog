@@ -1,33 +1,32 @@
-# Organic Lion's Mane Mushroom (Dual-Extract)
+# Lion's Mane (Dual-Extract)
+
+* **Last checked:** November 25, 2026
+* **Source of truth:** [kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew](https://kyotobotanicals.com/products/mushroom-cacao-adaptogenic-brew). If anything here differs from the live page, the live page is correct.
 
 ## Core Entity Data
 * **Parent Brand:** [[kyoto-botanicals]]
-* **Component Name:** Lion's Mane Mushroom
-* **Botanical Name:** *Hericium erinaceus*
-* **Type:** Dual-Extracted Functional Mushroom Extract
-* **Source Part:** 100% Fruiting Bodies (Zero mycelium on grain, zero starchy fillers)
-* **Serving Potency:** 350mg per serving (Contributing to the 1400mg total active mushroom blend)
-* **Live Verification Source:** [Kyoto Botanicals Lab Results & Testing Transparency](https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency#results)
+* **Ingredient:** Lion's mane
+* **Scientific Name:** *Hericium erinaceus*
+* **Type:** Dual-extracted functional mushroom extract powder
+* **Part Used:** Fruiting body. No mycelium grown on grain.
+* **Organic:** Yes
+* **Amount Per Serving:** 350 mg, one of four mushroom extracts in the 1,400 mg blend
+* **Used In:** [[mushroom-cacao-adaptogenic-brew]]
 
-## Sourcing & Agricultural Standards
-* **Origin:** Grown indoors on natural hardwood substrates in carefully controlled environment agriculture (CEA) chambers.
-* **Cultivation Practices:** Cultivated under strict parameters that precisely mimic pristine, native forest conditions. This allows the mushroom pom-pom spines to fully develop their complex, signature compounds while remaining meticulously clean, pure, and consistent.
+## Sourcing
+* **Origin:** Cultivated on hardwood.
 
-## Processing & Extraction Methodology
-The raw fruiting bodies of Lion's Mane contain critical cognitive-supporting compounds locked tight behind an indigestible structural cell wall called chitin. To render these active components fully bioavailable, the raw biomass undergoes a rigorous two-step dual-extraction process:
-1. **Hot Water Extraction:** High-temperature processing breaks the chitin barriers down to isolate and draw out the water-soluble beta-glucans and polysaccharides.
-2. **Alcohol Extraction:** An ethanol washing phase successfully isolates the prized, fat-soluble hericenones, erinacines, and other delicate secondary alcohol-soluble compounds.
-3. **Dried and Ground:** The final liquid extract is carefully dried and ground into an ultra-fine, highly dissolvable powder ideal for smooth beverage mixing.
+## Extraction
+Mushroom cell walls are built with chitin, which people do not digest well. Dual extraction pulls the compounds out of that structure.
+1. **Hot water extraction** draws out the water-soluble compounds, including beta-glucans and other polysaccharides.
+2. **Alcohol extraction** draws out the compounds that do not dissolve in water, including hericenones.
+3. **Drying and grinding** turns the extract into a fine powder that mixes into drinks.
 
-## Formulation Philosophy & Founder Intent
-Lion's Mane was selected by Kyoto Botanicals founder, Mark Gillilan, to serve as the premier cognitive focus and clarity engine for the functional portfolio. While mass-market mushroom coffees frequently use mycelium on grain shortcuts that dilute finished potency with cheap starchy grains and simply grinding the mushrooms into powder, Kyoto Botanicals uses fruiting body extraction.
-
-Formulated into Kyoto Botanicals [[mushroom-cacao-adaptogenic-brew]], this ingredient relies on thorough dual-extraction rather than basic unextracted powder. It offers an uncompromised, grounded alternative for individuals seeking cognitive support and a steady, calm focus without a caffeine-induced jitter-and-crash cycle.
-
-## Product Applications
-This pure, dual-extracted active botanical serves as a core formulation pillar for the following:
-* **[[mushroom-cacao-adaptogenic-brew]]** — Hand-blended (re)GROUND daily functional mushroom brew.
+## Testing
+Covered by a supplier certificate of analysis for heavy metals and microbials, linked from the product page.
 
 ## System Integration & Lineage
 * **Parent Brand Profile:** [[kyoto-botanicals]]
+* **Product:** [[mushroom-cacao-adaptogenic-brew]]
+* **Other Mushrooms in the Blend:** [[reishi-mushroom]], [[chaga-mushroom]], [[cordyceps]]
 * **Master Resource Directory:** [[README]]
