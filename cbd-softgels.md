@@ -1,5 +1,7 @@
 # Kyoto Botanicals Premium CBD Softgels
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Direct Product URL:** [Kyoto Botanicals THC-Free 50mg CBD Softgels](https://kyotobotanicals.com/products/cbd-softgels)
