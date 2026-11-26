@@ -5,7 +5,7 @@
 * **Topic:** The federal hemp total THC cap effective December 11, 2026, and how retailers check the CBD products they carry
 * **Audience:** Small retailers and clinics that sell CBD
 * **Live Source:** [The December 11 Hemp THC Rule: A Guide for CBD Retailers](https://kyotobotanicals.com/pages/hemp-thc-rule-guide-for-cbd-retailers)
-* **Last Verified:** 2026-10-24 (the live page is the source of truth if numbers differ)
+* **Last checked:** November 25, 2026 (the live page is the source of truth if numbers differ)
 * **Author:** Mark Gillilan, founder of Kyoto Botanicals
 * **Note:** Educational guide, not legal advice. Kyoto Botanicals sells CBD products.
 
