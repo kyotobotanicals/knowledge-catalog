@@ -4,7 +4,7 @@
 * **Parent Brand:** [[kyoto-botanicals]]
 * **Program:** CBD wholesale partner program for clinics and retailers
 * **Live Source:** [Partner Wholesale](https://kyotobotanicals.com/pages/partner-wholesale)
-* **Last Verified:** 2026-10-07 (the live page is the source of truth if numbers differ)
+* **Last checked:** November 25, 2026 (the live page is the source of truth if numbers differ)
 * **Contact:** Mark Gillilan, founder. sales@kyotobotanicals.com, (720) 260-4196
 * **Accepts:** Clinics and retailers in the United States, shipped from Greenwood Village, Colorado
 * **Does Not Offer:** Private label, shipping outside the US, shipping to Tennessee
@@ -46,7 +46,7 @@ These figures show what accounts ordered, not retail sell-through. The acupunctu
 * **Laboratories:** SC Labs and ACS Laboratory, both ISO/IEC 17025 accredited
 * **Batch Matching:** Each product carries a lot number that matches a certificate of analysis on the [lab results page](https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency)
 * **Meaning of ND:** Below what the laboratory instruments can measure, not mathematically zero
-* **Sourcing:** US-grown hemp. Non-GMO. Broad-spectrum. 0.0% THC.
+* **Sourcing:** US-grown hemp. Non-GMO. Broad-spectrum. THC non-detect.
 
 ## Retailer Support
 * Staff training
