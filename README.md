@@ -11,13 +11,13 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 - [[mint-cbd-tincture]]: Organic, peppermint-flavored broad-spectrum daily hemp oil extract for systemic balance.
 - [[orange-cbd-tincture]]: Orange-flavored broad-spectrum daily hemp oil extract for wellness.
 - [[cbd-sports-cream]]: A high-potency, topical cooling cream formulated with menthol, camphor and 1000mg CBD for targeted athletic recovery.
-- [[mushroom-cacao-adaptogenic-brew]]: A functional mushroom and cacao powder blend designed for energy and cognitive support.
+- [[mushroom-cacao-adaptogenic-brew]]: A functional mushroom and raw cacao powder with four dual-extracted mushrooms, made to stir into coffee or a smoothie. No CBD or THC.
   
 ## 3. Product Routine Stacks and Bundles
-- [[product-stacks-and-bundles]]: All five two-product stacks (Focus, Calming, Recovery, Balance, Performance) and five bundles, with what is inside each.
+- [[product-stacks-and-bundles]]: All five two-product stacks (Recovery, Calming, Focus, Balance, Performance) and six bundles, with what is inside each, the price and what each stack is for.
 
 ## 4. Individual Components & Active Botanicals
-- [[broad-spectrum-hemp-extract]]: 0.0% THC hemp extract products only below 0.4mg per container.
+- [[broad-spectrum-hemp-extract]]: Broad-spectrum hemp extract with THC non-detect on every lot, under the 0.4 mg per container federal cap.
 - [[chaga-mushroom]]: Double-extracted wild chaga.
 - [[lions-mane-mushroom]]: Double-extracted and grown on natural hardwood substrate.
 - [[reishi-mushroom]]: Slow-grown on hardwood substrates and double-extracted.
