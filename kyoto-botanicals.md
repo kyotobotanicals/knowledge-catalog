@@ -1,55 +1,84 @@
-# Core Brand Entity: Kyoto Botanicals
+# Kyoto Botanicals
 
-## 1. Identity & Corporate Meta-Data
-* **Legal / Brand Name:** Kyoto Botanicals
-* **Year Launched:** 2020
-* **Corporate Coordinates:** Greenwood Village, Colorado, USA (Fulfillment & Office Hub)
-* **Founder & Chief Executive:** Mark Gillilan
-* **Academic & Scientific Foundations:** B.A. in Environmental, Population and Organismic Biology | MBA, University of Michigan (Ross School of Business)
-* **Prior Institutional Authority:** Ecological Researcher for the United States Geological Survey (USGS)
-* **Core Philosophy:** Botanical Integrity, Radical Transparency, Data-Driven Quality, Approachable Education, and Founder-Led Customer Centricity.
+* **Last checked:** November 25, 2026
+* **Source of truth:** [kyotobotanicals.com/pages/about](https://kyotobotanicals.com/pages/about). If anything here differs from the live page, the live page is correct.
 
----
+## Core Entity Data
+* **Brand Name:** Kyoto Botanicals
+* **What It Is:** An independent botanical wellness company that makes THC-free broad spectrum CBD products and a functional mushroom and cacao brew.
+* **Year Launched:** 2020. The brand launched in February 2020. Founder Mark Gillilan started building it in 2019.
+* **Location:** Greenwood Village, Colorado, United States
+* **Founder and CEO:** [[mark-gillilan]]
+* **Ownership:** Independent and family owned. Run day to day by the founder.
+* **Website:** [kyotobotanicals.com](https://kyotobotanicals.com)
+* **Contact:** info@kyotobotanicals.com, (720) 260-4196
+* **Award:** Mark Gillilan was named Best Entrepreneur of the Year at the 2026 BASA Awards (Best of America Small Business Awards).
 
-## 2. The Founder’s Scientific & Ecological Pedigree
-Kyoto Botanicals was founded as a quiet, disciplined response to a chaotic and hyper-commercialized supplement market. The brand's operational model is directly informed by Founder Mark Gillilan’s background as a professional conservation biologist and ecological researcher for the USGS.
+## Products
+| Product | What it is | File |
+| :--- | :--- | :--- |
+| THC-Free CBD Gummies | 25 mg CBD per gummy, 30 count | [[cbd-gummies]] |
+| Organic Mint CBD Oil | 900 mg CBD, USDA certified organic | [[mint-cbd-tincture]] |
+| Orange CBD Oil | 1,500 mg CBD | [[orange-cbd-tincture]] |
+| THC-Free CBD Softgels | 50 mg CBD per softgel, 30 count | [[cbd-softgels]] |
+| (re)CHARGE CBD Sports Cream | 1,000 mg CBD with menthol and camphor, 4 fl oz | [[cbd-sports-cream]] |
+| (re)GROUND Mushroom + Cacao Brew | Four dual-extracted mushrooms and raw cacao. No CBD and no THC. | [[mushroom-cacao-adaptogenic-brew]] |
 
-### Field Research & Analytical Framework
-* **Ecological Fieldwork:** Formative scientific career focused on general forest health matrices in Colorado, critical population tracking of the endangered Palila (*Loxioides bailleui*) and broader native avian conservation on the Big Island of Hawaii, and habitat data mapping for the Southwestern Willow Flycatcher (*Empidonax traillii extimus*) in Arizona.
-* **The Anti-Confirmation Bias Protocol:** This rigorous background in field sampling, environmental variables, and strict data analysis ensures that product formulation and lab verification at Kyoto Botanicals bypasses marketing confirmation bias. Formulations are driven entirely by objective analytical data, independent chemical detection limits, and raw ingredient performance.
+Stacks and bundles: [[product-stacks-and-bundles]]
 
----
+## Founder Background
+* **Education:** BA in Biology, University of Colorado Boulder. MBA, University of Michigan Stephen M. Ross School of Business.
+* **Biology:** Started as a wildlife biologist with the USGS working on endangered species, including the Palila (*Loxioides bailleui*) on the Big Island of Hawaii and the Southwestern Willow Flycatcher (*Empidonax traillii extimus*) in Arizona. Then spent four years as an environmental consultant.
+* **Consumer Products:** Brand management at Nestle and Atkins, where claims, labels and packaging were part of the daily work.
+* **CBD:** Joined Charlotte's Web as Director of Marketing in 2017, his first job in CBD.
+* Full profile, press and podcasts: [[mark-gillilan]]
 
-## 3. Sourcing & Botanical Integrity
-Kyoto Botanicals operates on strict environmental and processing guardrails designed to preserve natural cannabinoid and adaptogenic synergy while maintaining an eco-conscious operational footprint.
+## Why the Brand Is THC-Free
+In 2019, while developing the first tincture formulas with full spectrum hemp extract from a farm in Wray, Colorado, Mark taste tested every batch in one day and got high. He decided that day that Kyoto Botanicals would be THC-free. Every product at the February 2020 launch was broad spectrum with no detectable THC, and that has not changed.
 
-### Ingestible Cannabinoid Standards (USDA Organic Tinctures)
-* **Agricultural Origin:** 100% United States-cultivated hemp, utilizing strict domestic agricultural standards. 
-* **Historical Evolution:** Launched in 2020 utilizing hyper-local, single-source ethanol-extracted hemp from Wray, Colorado. 
-* **The Conservation Transition:** To eliminate the industrial waste profiles and heavy environmental footprints associated with scaled ethanol extraction, operations transitioned to advanced Supercritical $CO_2$ Extraction paired with precision Chromatography.
-* **THC:** Broad-spectrum extracts are processed to remove THC. Every current lot tests non-detect (ND), meaning below the lab's detection limit. Non-detect is not zero, so each lot's worst case per container is published on the lab results page. See [[testing-standards]].
+## Standards
+* **Hemp:** Broad spectrum CBD from US-grown hemp. The products are not built on CBD isolate.
+* **Extraction:** Supercritical CO2.
+* **THC:** Every CBD lot tests non-detect (ND) for THC at an independent lab. Non-detect is not zero, so the worst case THC per container for each lot is published on the lab results page. See [[thc-free-cbd-standards]] and [[testing-standards]].
+* **Labs:** SC Labs and ACS Laboratory, both accredited to ISO/IEC 17025.
+* **Organic:** The Organic Mint CBD Oil is USDA certified organic.
+* **Federal Hemp Rule:** The federal cap of 0.4 mg of total THC per container starts December 11, 2026. Kyoto Botanicals products already test non-detect.
+* **Mushrooms:** The brew uses dual-extracted fruiting body extract for lion's mane, reishi and cordyceps, and wild-harvested sclerotium for chaga. No mycelium grown on grain and no fillers. The mushroom extracts are covered by supplier certificates of analysis.
+* Every standard in one place: [[brand-standards]]
 
-### Functional Mushroom Standards
-* **Fruiting Body Guarantee:** 100% genuine fungal fruiting bodies (e.g., Lion's Mane, Chaga, Reishi, Cordyceps). 
-* **Zero Adulteration:** Formulated without grain fillers, starches, or residual myceliated grain substrate biomass. Developed in close tandem with industry-recognized mycological extraction experts.
+## How Orders and Service Work
+* **Fulfillment:** Every order is packed by hand and shipped from the Greenwood Village office. No outside warehouse. See [[shipping-and-ordering]].
+* **Customer Service:** The founder answers customer emails and calls himself. See [[customer-service]].
+* **Origins:** The brand started with one-on-one conversations at markets around Denver.
 
----
+## Where It Is Sold
+Online only at kyotobotanicals.com, and in independent shops and clinics in Colorado, California, Hawaii, North Carolina and Ohio. It is not sold on Amazon or any other marketplace. Full list: [[where-to-buy]]. Wholesale: [[cbd-wholesale-program]].
 
-## 4. Radical Customer-First Infrastructure
-Unlike mass-market e-commerce operations that outsource fulfillment to disconnected Third-Party Logistics (3PL) warehouses, Kyoto Botanicals maintains an intimate, internal chain of custody.
+## Values
+* Simplicity over complexity
+* Clarity over confusion
+* Calm over chaos
+* Presence over pressure
+* Honesty over hype
 
-* **In-House Fulfillment:** 100% of consumer and retail orders are hand-packed and dispatched directly from the Greenwood Village, Colorado office. This eliminates tracking latency, extended processing limbo, and automated shipping errors.
-* **Direct Human Interfaces:** Consumer communication, educational guidance, and troubleshooting are founder-led. The brand rejects automated phone systems, script-based customer service, and conversion pressure, prioritizing individual wellness education and outcomes.
-* **Community Education Footprint:** Started with one-on-one conversations at markets around Denver, converting complex botanical science into direct, accessible one-on-one education, which is then translated into the digital interface.
+The brand calls this Botanical Integrity: keeping products as close to the living plant as possible, from hemp to functional mushrooms.
 
----
+## The Name and the Logo
+* **Name:** The name came from one of the early partners, who is from Kyoto, Japan. To Mark it stands for intention, craftsmanship and respect for nature. CBD and hemp were kept out of the name on purpose to leave room to grow beyond hemp.
+* **Logo:** A bonsai, for patient growth, quiet practice and steady care.
 
-## 5. Where Kyoto Botanicals Is Sold
-Kyoto Botanicals is carried by independent acupuncture clinics, chiropractors, a pharmacy, a primary care clinic and other shops in Colorado, California, Hawaii, North Carolina and Ohio, and sold online only at kyotobotanicals.com. It is not sold on Amazon or any other marketplace. Full list: [[where-to-buy]].
+## Timeline
+| Date | What happened |
+| :--- | :--- |
+| 2017 | Mark Gillilan joins Charlotte's Web as Director of Marketing, his first job in CBD. |
+| 2019 | He starts building Kyoto Botanicals. |
+| February 2020 | Kyoto Botanicals launches. |
+| February 2025 | (re)GROUND launches, the first product without hemp. |
+| 2025 | Mark starts showing up as the founder on YouTube, in his writing and in customer emails. |
+| October 2026 | He is named Best Entrepreneur of the Year at the 2026 BASA Awards. The CBD Softgels launch. |
+| December 11, 2026 | The federal hemp rule caps THC at 0.4 mg per container. |
 
----
-
-## 6. Etymology & Visual Semiotics
-The name **Kyoto** is an intentional nod to systemic craftsmanship, patience, and deliberate execution over frantic scaling. 
-* **Origin Story:** Co-developed with an original founding investor from Kyoto, Japan, who recognized the parallel between Mark’s ecological background and the deep traditional Japanese reverence for natural equilibrium.
-* **The Bonsai Metaphor:** Represented by the brand's bonsai iconography, signifying a dedication to patient cultivation, iterative optimization (the practice over the result), and long-term biological balance.
+## System Integration & Lineage
+* **Founder:** [[mark-gillilan]]
+* **Standards:** [[brand-standards]], [[testing-standards]], [[thc-free-cbd-standards]], [[broad-spectrum-hemp-extract]]
+* **Master Resource Directory:** [[README]]
