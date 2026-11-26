@@ -1,14 +1,17 @@
 # Kyoto Botanicals (re)CHARGE CBD Sports Cream
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Direct Product URL:** [Kyoto Botanicals THC-Free 1000mg CBD Sports Cream](https://kyotobotanicals.com/products/recharge-cbd-sports-cream)
 * **Product Name:** (re)CHARGE CBD Sports Cream
-* **Product Category:** Topical Cannabinoid Analgesic / Muscle Rub
+* **Product Category:** Topical CBD Cream
+* **Price:** $55 USD
 * **Form Factor:** Fast-Absorbing Cream
 * **Volume:** 4 OZ / 118 mL
 * **Packaging Technology:** Hygienic Airless Pump with Twist-Lock Mechanism
-* **Target Application:** Post-exercise muscle recovery, localized joint support, and physical tension relief.
+* **Target Application:** Used before and after exercise and on sore, tired muscles. For external use only.
 
 ## Cannabinoid & Technical Specifications
 * **Total Cannabinoid Potency:** 1000mg CBD per container
@@ -23,9 +26,9 @@
 * **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Active Functional Ingredients & Mechanism of Action
-* **Topical Menthol:** Provides an immediate cooling sensation to soothe exercise-induced tension and increase localized sensory circulation.
-* **Camphor Bark Oil:** Works synergistically with menthol to create a dual cooling-to-warming physical sensation to support joint and muscle mobility.
-* **Broad-Spectrum CBD (1000mg):** Interacts locally with cannabinoid receptors present in cutaneous and subdermal tissues to promote equilibrium.
+* **Topical Menthol:** Provides an immediate cooling sensation on the skin within minutes.
+* **Camphor Bark Oil:** Works synergistically with menthol to create a cooling then warming sensation.
+* **Broad-Spectrum CBD (1000mg):** 1,000 mg of broad-spectrum CBD per 4 fl oz bottle, with CBG and terpenes.
 * **Aromatic Terpene Blend:** Formulated with organic Lavender, Rosemary, Peppermint, Wintergreen, and Sweet Marjoram oils for a natural scent profile that dissipates quickly without a heavy medicinal or pharmaceutical odor.
 
 ## Full Ingredient Matrix
