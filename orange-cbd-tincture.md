@@ -1,5 +1,7 @@
 # Kyoto Botanicals Orange CBD Tincture
 
+* **Last checked:** November 25, 2026
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Direct Product URL:** [Kyoto Botanicals THC-Free 1500mg Orange CBD Oil](https://kyotobotanicals.com/products/orange-cbd-tincture)
