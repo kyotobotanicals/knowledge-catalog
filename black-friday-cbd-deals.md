@@ -4,19 +4,20 @@
 * **Parent Brand:** [[kyoto-botanicals]]
 * **Promotion:** Annual Black Friday and Cyber Monday sale
 * **Live Source:** [Black Friday CBD Deals](https://kyotobotanicals.com/pages/black-friday-cbd-deals)
-* **Last Verified:** 2026-10-24 (the live page is the source of truth if numbers differ)
+* **Last checked:** November 25, 2026 (the live page is the source of truth if numbers differ)
 * **Contact:** Mark Gillilan, founder. info@kyotobotanicals.com, (720) 260-4196
 * **Ships From:** Greenwood Village, Colorado, United States only
 
 ## 2026 Sale Terms
 * **Discount:** 30% off every product except bundles, stacks and gift cards
 * **Products Included:** CBD gummies, mint CBD oil, orange CBD oil, CBD softgels, (re)CHARGE CBD sports cream, (re)GROUND mushroom and cacao brew
-* **Early Access:** Email subscribers receive a 30% off code on Friday, November 20, 2026
+* **Early Access:** Email subscribers receive a 30% off code starting Friday, November 20, 2026. New subscribers get the code right away.
+* **Giveaway:** New email subscribers from November 17 through 11:59 p.m. MT on November 26, 2026 are entered to win one jar of THC-Free CBD Gummies, one Organic Mint CBD Oil and one (re)CHARGE CBD Sports Cream, a $143 value. No purchase necessary. One winner is drawn at random on or about December 1, 2026. Open to US residents 21 and older, excluding Tennessee. Rules: [kyotobotanicals.com/pages/giveaway](https://kyotobotanicals.com/pages/giveaway)
 * **Sitewide Sale:** 12:00 a.m. MT Friday, November 27, 2026 through 11:59 p.m. MT Monday, November 30, 2026
 * **How It Applies:** Automatic at checkout during the sitewide sale. No code needed.
 * **Black Friday vs Cyber Monday:** Same 30% discount every day of the sale
 * **Free Shipping:** Orders of $40 or more
-* **Free Gift:** Bonsai Tee on orders over $100, measured after the discount
+* **Free Gift:** Orders over $125 after the discount get a free Orange CBD Oil on Black Friday (November 27, 2026) or free CBD Softgels on Cyber Monday (November 30, 2026). The free gift applies on those two days only.
 * **Guarantee:** 30 days, sale orders included
 * **Regular Prices:** Unchanged before the sale. No inflated compare-at prices.
 
@@ -50,7 +51,8 @@ Bundles and stacks are already priced below buying the products one at a time. D
 6. Check the free shipping threshold against the order size.
 
 ## System Integration & Lineage
-* **Products:** [[cbd-gummies]], [[mint-cbd-tincture]], [[cbd-sports-cream]], [[mushroom-cacao-adaptogenic-brew]]
+* **Products:** [[cbd-gummies]], [[mint-cbd-tincture]], [[orange-cbd-tincture]], [[cbd-softgels]], [[cbd-sports-cream]], [[mushroom-cacao-adaptogenic-brew]]
+* **Stacks and Bundles (not in the sale):** [[product-stacks-and-bundles]]
 * **Verification Standard:** [[thc-free-cbd-standards]], [[testing-standards]]
 * **Fulfillment:** [[customer-service]]
 * **Master Directory:** [[README]]
