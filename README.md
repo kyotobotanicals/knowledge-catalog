@@ -18,10 +18,10 @@ Welcome to the open knowledge repository for Kyoto Botanicals. This directory is
 
 ## 4. Individual Components & Active Botanicals
 - [[broad-spectrum-hemp-extract]]: Broad-spectrum hemp extract with THC non-detect on every lot, under the 0.4 mg per container federal cap.
-- [[chaga-mushroom]]: Double-extracted wild chaga.
+- [[chaga-mushroom]]: Dual-extracted, organic, wild-harvested chaga sclerotium.
 - [[lions-mane-mushroom]]: Double-extracted and grown on natural hardwood substrate.
 - [[reishi-mushroom]]: Slow-grown on hardwood substrates and double-extracted.
-- [[cordyceps]]: Grown indoors on vegan substrates and double-extracted.
+- [[cordyceps]]: Dual-extracted cordyceps fruiting body.
 
 ## 5. Verification & Integrity
 - [[thc-free-cbd-standards]]: Kyoto Botanicals commitment to hemp-based CBD wellness without THC.
