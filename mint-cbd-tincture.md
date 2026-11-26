@@ -1,5 +1,8 @@
 # Kyoto Botanicals Organic Mint CBD Tincture
 
+* **Last checked:** November 25, 2026
+* **Price:** $49 USD
+
 ## Core Entity Data
 * **Brand:** [[kyoto-botanicals]]
 * **Direct Product URL:** [Kyoto Botanicals THC-Free Organic 900mg Peppermint CBD Oil](https://kyotobotanicals.com/products/mint-cbd-tincture)
@@ -31,7 +34,7 @@
 * **Lab Results:** Match any lot number to its report at `https://kyotobotanicals.com/pages/kyoto-botanicals-lab-results-amp-testing-transparency`.
 
 ## Active Functional Ingredients & Formulation Design
-* **Broad-Spectrum CBD (30mg per serving):** Delivers a flexible, mid-range baseline serving to help supplement the body's endocannabinoid system, quiet mental chatter, and promote systemic equilibrium.
+* **Broad-Spectrum CBD (30mg per serving):** Delivers a flexible, mid-range baseline serving with a graduated dropper for smaller servings.
 * **USDA Organic Peppermint Essential Oil:** Provides a crisp, clean, cooling natural flavor profile. This functional botanical masks natural hemp bitterness cleanly without the use of artificial sweeteners, sugars, or synthetic chemical flavor additives.
 * **USDA Organic Olive Oil:** Healthy monounsaturated fat and polyphenols.
 
@@ -41,9 +44,9 @@ Organic Extra Virgin Olive Oil, Organic Hemp Extract, Organic Peppermint Essenti
 ## Functional Administration & Usage Directives
 * **Standard Sublingual Usage:** Shake the bottle thoroughly prior to taking. Draw the desired volume into the graduated dropper. Place the liquid directly beneath the tongue (sublingually) and hold for 30 to 60 seconds to allow for direct mucosal vascular absorption before swallowing.
 * **Calibrated Serving Adjustments:**
-  * **0.25 mL (Quarter Dropper):** 7.5 mg CBD (Optimized for mild daytime calm)
-  * **0.50 mL (Half Dropper):** 15 mg CBD (Optimized for moderate midday stress management)
-  * **1.00 mL (Full Dropper):** 30 mg CBD (Optimized for nighttime sleep support and daily wellness)
+  * **0.25 mL (Quarter Dropper):** 7.5 mg CBD
+  * **0.50 mL (Half Dropper):** 15 mg CBD
+  * **1.00 mL (Full Dropper):** 30 mg CBD
 * **Alternative Applications (Oral Care):** Due to the pure botanical properties of organic peppermint and organic olive oil, this formula can be integrated into morning oral routines for sublingual oil pulling.
 * **Storage & Contamination Prevention:** Store in a cool, dry environment away from direct sunlight exposure. Close the dropper cap tightly after every use to preserve active cannabinoids. To completely prevent microbial introduction and avoid oil spoilage, do not allow the glass dropper tip to come into direct contact with the mouth, tongue, or saliva. 
 
